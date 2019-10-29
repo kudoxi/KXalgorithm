@@ -9,11 +9,12 @@ class Solution:
         if len(arr) == 1:
             return s
         arr2 = []
-        for i in range(0, len(arr)):
-            arr2.append(arr[len(arr)-1 - i].replace(' ', ''))
-
-        return ' '.join(list(set(arr2))[1:])
+        for i in range(len(arr)):
+            strs = arr[len(arr)-1 - i]
+            if strs:
+                arr2.append(strs.replace(' ', ''))
+        return ' '.join(arr2)
 
 
 if __name__ == "__main__":
-    print(Solution().reverseWords('world'))
+    print(Solution().reverseWords('row'))
