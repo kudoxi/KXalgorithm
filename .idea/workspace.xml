@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31c525d0-422e-4451-b558-36db6a858edc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isLegalIdentifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mostFrequentlyAppearingLetters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canAttendMeetings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deduplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digitCounts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kthLargestElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mergeSortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searchInsert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trailingZeros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverseWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/reverseWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count.py" beforeDir="false" afterPath="$PROJECT_DIR$/count.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,16 +24,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/KXalgorithm$nthUglyNumber.coverage" NAME="nthUglyNumber Coverage Results" MODIFIED="1572247797595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/KXalgorithm$reverseWords.coverage" NAME="reverseWords Coverage Results" MODIFIED="1572313228896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$kthLargestElement.coverage" NAME="kthLargestElement Coverage Results" MODIFIED="1573530906219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1573805268939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$trailingZeros.coverage" NAME="trailingZeros Coverage Results" MODIFIED="1573527582888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$mergeSortedArray.coverage" NAME="mergeSortedArray Coverage Results" MODIFIED="1573541344626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$isLegalIdentifier.coverage" NAME="isLegalIdentifier Coverage Results" MODIFIED="1572316460733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$rotateString.coverage" NAME="rotateString Coverage Results" MODIFIED="1569833995116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$mostFrequentlyAppearingLetters.coverage" NAME="mostFrequentlyAppearingLetters Coverage Results" MODIFIED="1572317471420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$firstUniqChar.coverage" NAME="firstUniqChar Coverage Results" MODIFIED="1572257086992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$canAttendMeetings.coverage" NAME="canAttendMeetings Coverage Results" MODIFIED="1573799355828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$multiSort.coverage" NAME="multiSort Coverage Results" MODIFIED="1573808928821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$nthUglyNumber.coverage" NAME="nthUglyNumber Coverage Results" MODIFIED="1572247797595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$reverseWords.coverage" NAME="reverseWords Coverage Results" MODIFIED="1572313228896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$searchInsert.coverage" NAME="searchInsert Coverage Results" MODIFIED="1573809668306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$deduplication.coverage" NAME="deduplication Coverage Results" MODIFIED="1573787918435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$digitCounts.coverage" NAME="digitCounts Coverage Results" MODIFIED="1573530522393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$binarySearch.coverage" NAME="binarySearch Coverage Results" MODIFIED="1573807459467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$strStr.coverage" NAME="strStr Coverage Results" MODIFIED="1572253283142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$Narciss.coverage" NAME="Narciss Coverage Results" MODIFIED="1569830944967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$twoSum.coverage" NAME="twoSum Coverage Results" MODIFIED="1569831863225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/KXalgorithm$count.coverage" NAME="count Coverage Results" MODIFIED="1572329992825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$count.coverage" NAME="count Coverage Results" MODIFIED="1573529222905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KXalgorithm$fizzBuzz.coverage" NAME="fizzBuzz Coverage Results" MODIFIED="1573802562785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$isUnique.coverage" NAME="isUnique Coverage Results" MODIFIED="1572253801245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KXalgorithm$repeatNum.coverage" NAME="repeatNum Coverage Results" MODIFIED="1569832493097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -32,32 +52,33 @@
     <session id="718862559">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="py" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="12" />
+          <entry key="Python" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4276" />
-          <entry key="txt" value="39" />
+          <entry key="py" value="8013" />
+          <entry key="txt" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="39" />
-          <entry key="Python" value="4276" />
+          <entry key="PLAIN_TEXT" value="79" />
+          <entry key="Python" value="8013" />
         </counts>
       </usages-collector>
     </session>
@@ -65,101 +86,108 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/singleNumber.py">
+        <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="54">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binarySearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
               <folding>
-                <marker date="1569832491731" expanded="true" signature="212:221" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1573807459433" expanded="true" signature="228:237" ph="..." />
+                <marker date="1573807459433" expanded="true" signature="756:766" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rotateString.py">
+        <entry file="file://$PROJECT_DIR$/multiSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" selection-start-line="15" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="216">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <marker date="1569833995049" expanded="true" signature="154:163" ph="..." />
+                <marker date="1573808940115" expanded="true" signature="127:136" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nthUglyNumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1944">
-              <caret line="72" selection-start-line="72" selection-end-line="75" selection-end-column="46" />
-              <folding>
-                <marker date="1572248055890" expanded="true" signature="264:269" ph="..." />
-                <marker date="1572248055890" expanded="true" signature="264:273" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strStr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="22" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/isUnique.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="17" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reverseWords.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/count.py">
+        <entry file="file://$PROJECT_DIR$/searchInsert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+            <state relative-caret-position="324">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1572329992758" expanded="true" signature="155:164" ph="..." />
+                <marker date="1573810463658" expanded="true" signature="187:196" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/isLegalIdentifier.py">
+        <entry file="file://$PROJECT_DIR$/serialize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="-222">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="14" />
               <folding>
-                <marker date="1572316470081" expanded="true" signature="180:189" ph="..." />
+                <marker date="1573789897172" expanded="true" signature="507:516" ph="..." />
+                <marker date="1573789897172" expanded="true" signature="991:1000" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mostFrequentlyAppearingLetters.py">
+        <entry file="file://$PROJECT_DIR$/deduplication.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="513">
+              <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="50" />
               <folding>
-                <marker date="1572317478833" expanded="true" signature="161:170" ph="..." />
+                <marker date="1573787918363" expanded="true" signature="157:166" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/canAttendMeetings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <marker date="1573799363512" expanded="true" signature="330:339" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fizzBuzz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <marker date="1573802645393" expanded="true" signature="115:124" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trailingZeros.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <marker date="1573527582810" expanded="true" signature="168:177" ph="..." />
               </folding>
             </state>
           </provider>
@@ -168,8 +196,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstUniqChar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="432">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <marker date="1572257086858" expanded="true" signature="168:177" ph="..." />
               </folding>
@@ -192,6 +220,7 @@
       <find>b</find>
       <find>z</find>
       <find>q</find>
+      <find>111</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -211,7 +240,19 @@
         <option value="$PROJECT_DIR$/reverseWords.py" />
         <option value="$PROJECT_DIR$/isLegalIdentifier.py" />
         <option value="$PROJECT_DIR$/mostFrequentlyAppearingLetters.py" />
+        <option value="$PROJECT_DIR$/trailingZeros.py" />
         <option value="$PROJECT_DIR$/count.py" />
+        <option value="$PROJECT_DIR$/digitCounts.py" />
+        <option value="$PROJECT_DIR$/kthLargestElement.py" />
+        <option value="$PROJECT_DIR$/mergeSortedArray.py" />
+        <option value="$PROJECT_DIR$/deduplication.py" />
+        <option value="$PROJECT_DIR$/serialize.py" />
+        <option value="$PROJECT_DIR$/canAttendMeetings.py" />
+        <option value="$PROJECT_DIR$/fizzBuzz.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/binarySearch.py" />
+        <option value="$PROJECT_DIR$/multiSort.py" />
+        <option value="$PROJECT_DIR$/searchInsert.py" />
       </list>
     </option>
   </component>
@@ -222,8 +263,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="75" />
-    <option name="y" value="6" />
+    <option name="x" value="-19" />
+    <option name="y" value="102" />
     <option name="width" value="1845" />
     <option name="height" value="985" />
   </component>
@@ -265,8 +306,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.count">
-    <configuration name="count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.searchInsert">
+    <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KXalgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,7 +320,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binarySearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="firstUniqChar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KXalgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,7 +342,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstUniqChar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fizzBuzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +351,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="isLegalIdentifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="multiSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KXalgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,7 +364,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isLegalIdentifier.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +373,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mostFrequentlyAppearingLetters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="searchInsert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KXalgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,7 +386,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mostFrequentlyAppearingLetters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searchInsert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,7 +395,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KXalgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,7 +408,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,19 +418,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.reverseWords" />
-      <item itemvalue="Python.firstUniqChar" />
-      <item itemvalue="Python.count" />
-      <item itemvalue="Python.isLegalIdentifier" />
-      <item itemvalue="Python.mostFrequentlyAppearingLetters" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.fizzBuzz" />
+      <item itemvalue="Python.binarySearch" />
+      <item itemvalue="Python.multiSort" />
+      <item itemvalue="Python.searchInsert" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.count" />
-        <item itemvalue="Python.mostFrequentlyAppearingLetters" />
-        <item itemvalue="Python.isLegalIdentifier" />
-        <item itemvalue="Python.reverseWords" />
-        <item itemvalue="Python.firstUniqChar" />
+        <item itemvalue="Python.searchInsert" />
+        <item itemvalue="Python.multiSort" />
+        <item itemvalue="Python.binarySearch" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.fizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -411,19 +452,26 @@
       <option name="project" value="LOCAL" />
       <updated>1572257183492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="计算格式错误的文字，变量合法，计算单词里出现次数最多的">
+      <created>1572331494286</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572331494286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2265625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20520833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41145834" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24791667" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,7 +497,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法，丑数，单词反转，判重，判断是否有重复字段，给出一个字符串，找出第一个只出现一次的字符" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法，丑数，单词反转，判重，判断是否有重复字段，给出一个字符串，找出第一个只出现一次的字符" />
+    <MESSAGE value="计算格式错误的文字，变量合法，计算单词里出现次数最多的" />
+    <option name="LAST_COMMIT_MESSAGE" value="计算格式错误的文字，变量合法，计算单词里出现次数最多的" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Narciss.py">
@@ -500,13 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/isUnique.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/strStr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -514,50 +556,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstUniqChar.py">
+    <entry file="file://$PROJECT_DIR$/isUnique.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverseWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
           <folding>
-            <marker date="1572257086858" expanded="true" signature="168:177" ph="..." />
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1573529219961" expanded="true" signature="157:168" ph="..." />
+            <marker date="1573529219961" expanded="true" signature="1186:1191" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mostFrequentlyAppearingLetters.py">
+    <entry file="file://$PROJECT_DIR$/digitCounts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="40" />
           <folding>
-            <marker date="1572317478833" expanded="true" signature="161:170" ph="..." />
+            <marker date="1573530522311" expanded="true" signature="184:193" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kthLargestElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <marker date="1573530906132" expanded="true" signature="161:170" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mergeSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <marker date="1573541295806" expanded="true" signature="183:192" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/isLegalIdentifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="324">
+          <caret line="12" column="23" selection-end-line="20" />
           <folding>
             <marker date="1572316470081" expanded="true" signature="180:189" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reverseWords.py">
+    <entry file="file://$PROJECT_DIR$/mostFrequentlyAppearingLetters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="216">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <marker date="1572317478833" expanded="true" signature="161:170" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/count.py">
+    <entry file="file://$PROJECT_DIR$/trailingZeros.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="243">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1573527582810" expanded="true" signature="168:177" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstUniqChar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <marker date="1572257086858" expanded="true" signature="168:177" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canAttendMeetings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1573799363512" expanded="true" signature="330:339" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <marker date="1573802645393" expanded="true" signature="115:124" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <marker date="1573789897172" expanded="true" signature="507:516" ph="..." />
+            <marker date="1573789897172" expanded="true" signature="991:1000" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1572329992758" expanded="true" signature="155:164" ph="..." />
+            <marker date="1573807459433" expanded="true" signature="228:237" ph="..." />
+            <marker date="1573807459433" expanded="true" signature="756:766" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <marker date="1573808940115" expanded="true" signature="127:136" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deduplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <marker date="1573787918363" expanded="true" signature="157:166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchInsert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <marker date="1573810463658" expanded="true" signature="187:196" ph="..." />
           </folding>
         </state>
       </provider>
